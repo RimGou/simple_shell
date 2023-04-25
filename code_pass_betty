@@ -1,0 +1,12 @@
+#include "shell.h"
+
+/**
+ * Description: Write a beautiful code that passes the Betty checks
+ * Return : 0
+ */
+
+int main()
+{
+   printf("Hello, Simple Shell!\n");
+   return (0);
+}
